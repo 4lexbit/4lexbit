@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbit&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=4lexbit&show_icons=true)  
 
 <!--
 **4lexbit/4lexbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
