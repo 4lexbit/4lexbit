@@ -1,4 +1,3 @@
 <div align="center">
-  <!-- <img src="https://github.com/4lexbit/4lexbit/blob/main/bit_memoji.png?raw=true"> -->
-  <h1 style="width="25px"">Heyo 🖖</h1>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlsY2NhYng1djN3NXgxaGZlazQ1ODR6eTRsOWxuZ2x4a3Z0eDIycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif">
 </div>
